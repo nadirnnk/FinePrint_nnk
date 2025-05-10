@@ -65,7 +65,7 @@ if uploaded_file:
         # Send to backend
         try:
             response = requests.post(
-                "https://fineprint.onrender.com/analyze",  # Updated to your Replit deployment URL
+                "https://fineprint-nnk.onrender.com/analyze",  # Updated to your Replit deployment URL
                 files={"file": uploaded_file},
                 timeout=30
             )
