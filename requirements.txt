@@ -1,0 +1,7 @@
+flask
+flask-cors
+PyPDF2
+python-dotenv
+google
+google-auth
+google-generativeai
