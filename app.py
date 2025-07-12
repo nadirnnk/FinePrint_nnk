@@ -35,7 +35,7 @@ st.markdown("""
     </style>
     <div class="header-container">
         <div class="header-logo">
-            <img src="https://raw.githubusercontent.com/Nab147/FinePrint/main/images/logo.png">
+            <img src="https://raw.githubusercontent.com/nadirnnk/FinePrint/main/images/logo.png">
         </div>
         <div class="header-text">
             <h1>FinePrint AI</h1>
